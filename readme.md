@@ -79,7 +79,7 @@ any Open Source Project managed by the American Express Open Source Community mu
 an Agreement indicating agreement to the terms below. Except for the rights granted in this 
 Agreement to American Express and to recipients of software distributed by American Express, You
 reserve all right, title, and interest, if any, in and to Your Contributions. Please
-[fill out the Agreement](https://cla-assistant.io/americanexpress/<YOUR REPOSITORY NAME>).
+[fill out the Agreement](https://cla-assistant.io/americanexpress/rate-limiting-scheduled-executor).
 
 ## License
 
